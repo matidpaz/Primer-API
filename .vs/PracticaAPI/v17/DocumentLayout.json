@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mati\\source\\repos\\PracticaAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\Matias\\Desktop\\API con .NET\\Primer-API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE1F9D5E-25AB-4AFA-9FDF-6FE23071A617}|PracticaAPI\\PracticaAPI.csproj|c:\\users\\mati\\source\\repos\\practicaapi\\practicaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE1F9D5E-25AB-4AFA-9FDF-6FE23071A617}|PracticaAPI\\PracticaAPI.csproj|c:\\users\\matias\\desktop\\api con .net\\primer-api\\practicaapi\\practicaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CE1F9D5E-25AB-4AFA-9FDF-6FE23071A617}|PracticaAPI\\PracticaAPI.csproj|solutionrelative:practicaapi\\practicaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1F9D5E-25AB-4AFA-9FDF-6FE23071A617}|PracticaAPI\\PracticaAPI.csproj|c:\\users\\matias\\desktop\\api con .net\\primer-api\\practicaapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1F9D5E-25AB-4AFA-9FDF-6FE23071A617}|PracticaAPI\\PracticaAPI.csproj|solutionrelative:practicaapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1F9D5E-25AB-4AFA-9FDF-6FE23071A617}|PracticaAPI\\PracticaAPI.csproj|c:\\users\\matias\\desktop\\api con .net\\primer-api\\practicaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE1F9D5E-25AB-4AFA-9FDF-6FE23071A617}|PracticaAPI\\PracticaAPI.csproj|solutionrelative:practicaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PracticaAPI.http",
+              "DocumentMoniker": "C:\\Users\\Matias\\Desktop\\API con .NET\\Primer-API\\PracticaAPI\\PracticaAPI.http",
+              "RelativeDocumentMoniker": "PracticaAPI\\PracticaAPI.http",
+              "ToolTip": "C:\\Users\\Matias\\Desktop\\API con .NET\\Primer-API\\PracticaAPI\\PracticaAPI.http",
+              "RelativeToolTip": "PracticaAPI\\PracticaAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-02T21:45:13.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Matias\\Desktop\\API con .NET\\Primer-API\\PracticaAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PracticaAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Matias\\Desktop\\API con .NET\\Primer-API\\PracticaAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PracticaAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T21:36:48.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mati\\source\\repos\\PracticaAPI\\PracticaAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matias\\Desktop\\API con .NET\\Primer-API\\PracticaAPI\\Program.cs",
               "RelativeDocumentMoniker": "PracticaAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Mati\\source\\repos\\PracticaAPI\\PracticaAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Matias\\Desktop\\API con .NET\\Primer-API\\PracticaAPI\\Program.cs",
               "RelativeToolTip": "PracticaAPI\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T19:06:48.638Z",
               "EditorCaption": ""

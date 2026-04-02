@@ -2,7 +2,7 @@
   {
     "ContainingType": "PracticaAPI.Controllers.WeatherForecastController",
     "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "RelativePath": "api/WeatherForecast",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -19,5 +19,31 @@
       }
     ],
     "EndpointName": "GetWeatherForecast"
+  },
+  {
+    "ContainingType": "PracticaAPI.Controllers.WeatherForecastController",
+    "Method": "GetByPosition",
+    "RelativePath": "api/WeatherForecast/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PracticaAPI.WeatherForecast",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]
