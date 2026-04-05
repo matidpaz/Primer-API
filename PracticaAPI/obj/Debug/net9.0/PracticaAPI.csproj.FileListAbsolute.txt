@@ -53,12 +53,6 @@ C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\obj\Debug\net9.0\sco
 C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\obj\Debug\net9.0\staticwebassets\msbuild.PracticaAPI.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\obj\Debug\net9.0\staticwebassets\msbuild.PracticaAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.PracticaAPI.props
-C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.PracticaAPI.props
-C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PracticaAPI.props
-C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\obj\Debug\net9.0\staticwebassets.pack.json
 C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\obj\Debug\net9.0\Practica.6C4D0EFA.Up2Date
 C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\obj\Debug\net9.0\PracticaAPI.dll
@@ -66,3 +60,11 @@ C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\obj\Debug\net9.0\ref
 C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\obj\Debug\net9.0\PracticaAPI.pdb
 C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\obj\Debug\net9.0\PracticaAPI.genruntimeconfig.cache
 C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\obj\Debug\net9.0\ref\PracticaAPI.dll
+C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Matias\Desktop\API con .NET\Primer-API\PracticaAPI\obj\Debug\net9.0\staticwebassets.build.json.cache

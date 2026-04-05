@@ -27,13 +27,22 @@ namespace PracticaAPI.Controllers
             })
             .ToArray();
         }
-
+        /// <summary>
+        /// Return all weather forecast
+        /// </summary>
+        /// <returns></returns>
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
+            _logger.LogInformation("Retorna lista de weatherforecast");
             return ListWeatherForecasts;
         }
 
+        /// <summary>
+        /// Return the weather by position
+        /// </summary>
+        /// <param name="id">Position</param>
+        /// <returns>The element by position</returns>
         [HttpGet()]
         [Route("{id}")]
         public ActionResult<WeatherForecast> GetByPosition(int id)

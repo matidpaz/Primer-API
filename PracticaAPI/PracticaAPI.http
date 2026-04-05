@@ -5,7 +5,7 @@ Accept: application/json
 
 ###
 
-@id=20
+@id=1
 GET {{PracticaAPI_HostAddress}}/api/weatherforecast/{{id}}
 
 ###
